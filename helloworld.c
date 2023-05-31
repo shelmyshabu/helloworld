@@ -1,9 +1,9 @@
 #include <stdio.h>
 
-#include "HelloWorld.h"
+#include "helloworld.h"
 
 int main(int argc, char *argv[])
 {
-  printf("Welcome to the World of RDK\n");
+  printf("Hello World(group3)\n");
   return 0;
 }
