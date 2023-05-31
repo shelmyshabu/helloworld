@@ -2,7 +2,7 @@
 # Process this file with autoconf to produce a configure script.
 
 #AC_PREREQ(2.60)
-AC_INIT(helloworld, 1.0, gowthami.l01@infosys.com)
+AC_INIT(helloworld, 1.0, shelmyshabu180@gmail.com)
 AC_CONFIG_SRCDIR([helloworld.c])
 AC_CONFIG_HEADER([config.h])
 AM_INIT_AUTOMAKE(helloworld, main)
@@ -26,5 +26,5 @@ AC_ENABLE_SHARED
 # Checks for library functions.
 
 #AC_CONFIG_MACRO_DIR([m4])
-AC_CONFIG_FILES([Makefile])
+AC_CONFIG_FILES([makefile])
 AC_OUTPUT
